@@ -1,3 +1,3 @@
-# react-study-restult
+# react-study-result
 
-[SEE RESULT](https://mirro97.github.io/react-study-restult/)
+[SEE RESULT](https://mirro97.github.io/react-study-result/)
